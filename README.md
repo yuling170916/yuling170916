@@ -1,28 +1,9 @@
-# Hi, I'm Yuling 👋
+# 嗨，我是玉玲 👋
 
-**Turning AI ideas into useful, human-centered products.**
+**AI 产品经理｜交互设计转产品｜关注 AI 用户体验**
 
-I explore how AI can become clear, reliable, and genuinely helpful in everyday work.
+交互设计背景让我习惯沿着用户任务和操作路径设计产品：判断 AI 在哪一步介入、如何呈现结果、什么时候需要用户确认，以及出错后如何纠正或交给人工处理。我关注模型能力如何转化为清晰、可控的使用体验。
 
-<p>
-  <a href="https://yuling170916.github.io">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/yuling170916">
-    <img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+熟悉规范化的 SDD AI Coding 范式，能够把需求、设计、开发与验证串起来，快速产出可上线的作品；熟悉 Harness 工程、Agent 编排与 AI 评测，关注应用的执行效果和稳定性。
 
-`ROLE: AI Product Manager` · `BASE: China` · `FOCUS: AI products · Agent experience`
-
----
-
-## Now
-
-I'm currently exploring AI product ideas with a focus on user experience and real-world impact. I enjoy turning early concepts into clear plans and useful products that solve everyday problems.
-
-I care about making AI feel understandable, dependable, and human. My goal is to keep learning through experimentation and build products people genuinely want to use.
-
----
-
-*Always curious, always building, always learning.*
+`UX × AI` `SDD · AI Coding` `快速开发与上线` `Harness 工程` `Agent 编排` `AI 评测`
